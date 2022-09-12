@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d3bu99er
-- 👀 I’m interested in python, telegram, web security, crypto, drones;
+- 👀 I’m interested in python, java, web security, crypto, drones;
 - 📫 How to reach me admin@bug4f.ru
 
 <!---
